@@ -1,6 +1,6 @@
 appdirs==1.4.4
 coverage==7.4.1
-gradio==4.19.1
+gradio==4.19.2
 gradio_client==0.10.0
 matplotlib==3.7.4
 multipledispatch==1.0.0
