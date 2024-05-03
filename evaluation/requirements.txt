@@ -1,6 +1,6 @@
 appdirs==1.4.4
 coverage==7.4.1
-gradio==4.19.1
+gradio==4.19.2
 gradio_client==0.10.0
 matplotlib==3.7.4
 multipledispatch==1.0.0
@@ -13,7 +13,7 @@ rich==13.7.0
 tempdir==0.7.1
 termcolor==2.4.0
 torch==2.1.2
-tqdm==4.66.1
-transformers==4.37.1
+tqdm==4.66.3
+transformers==4.38.0
 vllm==0.3.0
 wget==3.2
